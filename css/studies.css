@@ -1,6 +1,8 @@
-
-table, th, td {
+table {
+	border-collapse: collapse;
+}
+	
+th, td {
 	border: 3px solid currentcolor;
-	border-spacing: 2px;
 	padding: 10px 20px 10px 20px;
 }
