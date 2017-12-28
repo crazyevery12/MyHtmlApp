@@ -7,12 +7,12 @@ th, td {
 	padding: 10px 20px 10px 20px;
 }
 
-table#t01 th {
+th {
 	color: #000;
 	background-color: #fff;
 }
 
-table#t01 td {
+td {
 	color: #fff;
 	background-color: #000;
 }
