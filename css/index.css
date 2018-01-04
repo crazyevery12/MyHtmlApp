@@ -1,4 +1,25 @@
 div > h1{
 	font-style: italic;
 }	
+
+div#daniel-negreanu {
+	background-color: #f00;
+	color: #fff;
+}
+
+div#bill-gates {
+	background-color: #00aaff;
+	color: #000;
+}
+
+div#jack-sparrow{
+	background-color: #000;
+	color: #fff;
+}
+
+div.people{
+	border-bottom: 5px solid #fff;
+	margin: 10px;
+	padding: 10px;
 	
+}
