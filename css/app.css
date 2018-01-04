@@ -17,3 +17,19 @@ a, a:visited {
 a:hover {
 	color: red;
 }
+
+figure {
+	border: solid;
+	width: 100%;
+	padding: 10px;
+	margin:0;
+}
+
+figcaption {
+	font-style: italic;
+	text-align: center;
+}
+
+img{
+	max-width: 100%;
+}
