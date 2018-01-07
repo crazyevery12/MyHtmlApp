@@ -65,4 +65,18 @@ img{
 	h1{
 		font-size: 20px;
 	}
+}
+@media screen and (min-width: 801px){
+	#elon-musk-image{
+		content: url("../image/elon_musk.jpg");
+	}
+	#daniel-negreanu-image{
+		content: url("../image/daniel_negreanu.jpg");
+	}
+	#bill-gates-image{
+		content: url("../image/bill_gates.jpg");
+	}
+	#jack-sparrow-image{
+		content: url("../image/jack_sparrow.jpg");
+	}
 }	
